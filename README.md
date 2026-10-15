@@ -114,6 +114,26 @@ Python · Data analysis · Visualization
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[<img src="https://img.icons8.com/fluency/20/resume.png" width="18" alt="" /> Recruitment ATS](https://github.com/axeldima10/my_hr-copie)**
+
+Symfony application for candidate submissions and recruitment-pipeline management.
+
+Symfony · PHP · Doctrine · Twig
+
+</td>
+<td width="50%" valign="top">
+
+**[<img src="https://img.icons8.com/fluency/20/school.png" width="18" alt="" /> School Management](https://github.com/axeldima10/Gestion_Scolaire)**
+
+Java desktop application for school administration, registrations and re-enrolments.
+
+Java · JavaFX · FXML · MySQL
+
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -135,6 +155,11 @@ Python · Data analysis · Visualization
 ## <img src="https://img.icons8.com/fluency/24/briefcase.png" width="22" alt="" /> Perspective
 
 My experience spans software and product engineering, digital banking and payment-service support, and customer-facing technical support. I bring a practical view of the full product lifecycle: **understand the problem, define the right solution, build it, and make it usable in real operations**.
+
+## <img src="https://img.icons8.com/fluency/24/medal.png" width="22" alt="" /> Recognition & community
+
+- **Best Internet Support Technician in Integration** — recognized for adaptability, technical troubleshooting and integration support.
+- **Digital communication and UX contribution** — during a 2022 internship with ISM incub' & IESA incub', developed a digital communication strategy, contributed to website redesign, and worked to improve online engagement and user experience.
 
 ## <img src="https://img.icons8.com/fluency/24/globe.png" width="22" alt="" /> Let's connect
 
